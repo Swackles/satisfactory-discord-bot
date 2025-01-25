@@ -1,0 +1,12 @@
+# Editors
+.idea
+satisfactory-bot.iml
+
+# Env files
+.env
+
+# Node
+node_modules
+
+# Build files
+dist
